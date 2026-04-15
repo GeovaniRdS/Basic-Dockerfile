@@ -11,6 +11,7 @@ Uma imagem Docker minimalista que exibe `Hello, Captain!` no console e encerra.
 ## Como Usar
 
 **Construir a imagem:**
+- O comando abaixo deve ser executado no mesmo diretório do Dockerfile
 ```bash
 docker build -t hello-captain .
 ```
